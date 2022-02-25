@@ -1,0 +1,602 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sober and seasonable queries humbly offered to all good Protestants in England in order to a choice of the new Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60710</idno>
+            <idno type="STC">Wing S4403</idno>
+            <idno type="STC">ESTC R14618</idno>
+            <idno type="EEBO-CITATION">12255586</idno>
+            <idno type="OCLC">ocm 12255586</idno>
+            <idno type="VID">57404</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57404)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 899:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sober and seasonable queries humbly offered to all good Protestants in England in order to a choice of the new Parliament</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition /</edition>
+               </editionStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  England.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57404:1"/>
+            <pb n="1" facs="tcp:57404:1" rendition="simple:additions"/>
+            <head>SOBER AND SEASONABLE QUERIES Humbly Offered to all GOOD PROTESTANTS IN ENGLAND IN ORDER TO A
+CHOICE OF THE NEW PARLIAMENT.</head>
+            <head type="sub">THE SECOND EDITION <hi>With Conſiderable Additions by another
+Author.</hi>
+            </head>
+            <epigraph>
+               <q>Interrogabo vos &amp; ego unum verbum. Reſpondete mihi. </q>
+               <bibl>
+                  <hi>Luc.</hi> 20.</bibl>
+            </epigraph>
+            <p n="1">I. <hi>WHether the Kingdoms of</hi> England, Scotland <hi>and</hi> Ireland, <hi>are not
+deſigned for Deſtruction by the Helliſh Conſpiracy of the bloody Papiſts, as hath been
+de<g ref="char:EOLhyphen"/>clared by two Parliaments and ſufficiently proved by the King's Witneſſes before the
+Judges of this Kingdom?</hi>
+            </p>
+            <p>ADDITION. Whether the aboveſaid <hi>Kingdoms</hi> are not <hi>deſigned</hi> to be brought to
+the ſame pickle they were in, during the late Troubles and Uſurpation? And whether the publick
+and open Murther of the Arch-Biſhop of St. <hi>Andrews,</hi> and the enſuing Rebellion in
+<hi>Scotland,</hi> be not far better proofs thereof, then the ſingle Teſtimony of an Infamous
+Perſon, on which the firſt of thoſe <hi>two Parliaments Declared</hi> that there was an
+<hi>Helliſh Conſpiracy?</hi> And whether the <hi>Second</hi> Parliament were more Infallible,
+or leſs Factious than the <hi>Firſt?</hi> And whether the Judges and ſo worthy a Jury (on
+maturer thoughts and after ſo much Conſideration) were more miſtaken in the Ac<g ref="char:EOLhyphen"/>quital of Sr.
+<hi>George Wakeman</hi> (a principal Conſpirator, and accuſed by the two moſt Principal of
+the <hi>King's Witneſſes</hi>) than the ſame Judges and other Ju<g ref="char:EOLhyphen"/>ries were in Condemning the
+Reſt, at firſt and during the ſuddain Heat and Paſſion of the People, and before the
+Contradictions or weakneſs of
+<pb n="2" facs="tcp:57404:2"/>the Evidence grew ſo manifeſt, as it is at preſent? Whether it be
+impoſſible for ſuch as have been great Rogues and notorious Perjurers all their lives, to
+continue ſo, when once they are become the <hi>King's Witneſſes?</hi> Whether Thoſe, who by
+falſe Oaths deſtroy the King's beſt friends, are not rather witneſſes <hi>againſt
+him</hi> than <hi>for him?</hi>
+            </p>
+            <p n="2">II. <hi>What poſture of Defence extraordinary is the City of</hi> London <hi>and Nation
+in at the Diſcovery of ſo Helliſh a Plot, to defend themſelves from the Inſurrection of
+Papiſts at home, and Invaſion from Papiſts abroad ſuitable to the deſires of a Loyal
+Parliament?</hi>
+            </p>
+            <p>ADD. Whether the Parliament thought the King (whoſe Life was par<g ref="char:EOLhyphen"/>ticularly aimed at) in any
+great danger from this Popiſh Conſpiracy, when on the firſt Diſcovery thereof (and when the
+Papiſts were ſuppoſed to have an Army ready) they were as hot in preſſing the King to
+Disband the Forces, which he then had<g ref="char:punc">▪</g> as in their Clamours againſt the <hi>Helliſh
+Plot?</hi> And, though they propoſed the <hi>Raiſing the Train-Bands,</hi> I ask, whether it be
+<hi>ſuitable to the deſires of a Loyal Parliament,</hi> that the King ſhould not have the
+choice of ſuch Soldiers, as were for the defence of his own Life?</p>
+            <p n="3">III. <hi>Whether Prorogation and Diſſolution of Parliaments at ſuch a time as this
+doth not fill the hearts of Proteſtant Subjects with evident fears of Deſtruction, and gives
+the cur<g ref="char:EOLhyphen"/>ſed Plotters too too much ground to believe (as they boaſt) that yet their day is
+coming?</hi>
+            </p>
+            <p>ADD. Whether <hi>Prorogation and Diſſolution of Parliaments</hi> had not been a bet<g ref="char:EOLhyphen"/>ter
+expedient for the ſecuring the late Kings Crown and life, than the ma<g ref="char:EOLhyphen"/>king them firſt
+Triennial, and after perpetual, <hi>which gave thoſe cunſed Plotters too too much</hi>
+Opportunity of accompliſhing thoſe accurſed ends, which <hi>they now Boaſt of,</hi> and are
+ready to act over again?</p>
+            <p n="4">IV. <hi>Whether have we not great reaſon to fear that the Papiſts will not hereby take
+encouragement to proceed in their Helliſh Deſign to Murther the King, who they know is ſworn
+at his Coronation to maintain and defend the Proteſtants Religion (and ſo is ſo<g ref="char:EOLhyphen"/>lemnly
+engaged againſt them) whereby they may ſubvert the Government, by bringing in a Popiſh
+Succeſſor, in whom is all their help and hope?</hi>
+            </p>
+            <p>ADD. Whether <hi>wee have not ſome reaſon to hope that hereby</hi> (<hi>viz.</hi> by
+Proroga<g ref="char:EOLhyphen"/>tions and Diſſolutions of Parliaments) factious People will be <hi>diſcouraged</hi>
+from <hi>proceeding in the Helliſh Deſign of</hi> their Predeceſſours <hi>to Murther the
+King, who they Know,</hi> is as <hi>ſolemnly engaged</hi> againſt the <hi>Preſbyterians,</hi>
+as againſt the <hi>Papiſts;</hi> and hath much more cauſe to be affraid of the
+<hi>former,</hi> who ſlew his Father, and <hi>ſought his life alſo, to take it away;</hi>
+than of the <hi>latter,</hi> who fought for his <hi>Father,</hi> and preſerved <hi>Him?</hi> And
+conſequently whether they may not hereby be hindred from <hi>Subverting the Government, and
+bringing in a Common<g ref="char:EOLhyphen"/>wealth, in which is all their help and hope?</hi>
+            </p>
+            <p n="5">V. <hi>Whether any Speeches to, or in Parliament, in favour of a Popiſh Succeſſor,
+is not of direct tendency to prepare the Nation to make Tryal of it again, as if the dreadful
+Effects of Queen</hi> Mary's <hi>Reign were, or ever can be forgotten, whoſe great promiſes
+were ſealed with Fire and Faggot?</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:57404:2"/>ADD. Whether <hi>any ſpeeches to, or in Parliament,</hi> againſt the Lawful
+<hi>Suc<g ref="char:EOLhyphen"/>ceſſor</hi> (whether Papiſt or Proteſtant) be not a breach of one of thoſe Oaths,
+which are now ſo ſtrictly required of all <hi>Parliament</hi>-men, and alſo <hi>Directly</hi>
+con<g ref="char:EOLhyphen"/>trary to the Principles of Proteſtant Religion, which depoſeth no Prince on the account of
+Hereſie, much leſs on the account of a Profeſſion which it acknowledgeth <hi>a ſafe way
+to ſalvation?</hi> And whether the <hi>Nation</hi> is not likely to be more happy under a Prince
+of known Clemency and Generoſity, than under a Company of <hi>Baſe-ſpirited, Crop-ear'd</hi>
+Sequeſtrators or Com<g ref="char:EOLhyphen"/>mittee-men?</p>
+            <p n="6">VI. <hi>If ſo, what are we to think of them that have or ſhall diſcountenance, or
+endea<g ref="char:EOLhyphen"/>vour to corrupt the King's Witneſſes: or that do indulge arraigned Traytors impudently to
+aſperſe the Juſtice of the Land?</hi>
+            </p>
+            <p>ADD. <hi>What ſhall we think of thoſe</hi> who admit of <hi>Infamous</hi> perſons for
+<hi>cre<g ref="char:EOLhyphen"/>dible Witneſſes,</hi> and who are at a vaſt expence to induce men of deſperate
+fortunes to ſwear away the lives of his Majeſtie's Loyal ſubjects? Whence was it, that
+<hi>Oates and Bedlow</hi> had 6. or 700. <hi>li.</hi> a-piece to diſpoſe of? And how was it,
+that they could lay it out <hi>on account of the Plot,</hi> as they ſay they did, unleſs it
+were in Hiring <hi>under-Swearers?</hi> Whether thoſe, who ſwore that <hi>Naboth</hi> was
+guilty of Treaſon, and are called in ſcripture <hi>Sons of Bolial,</hi> ought not to have been
+ſo grievouſly <hi>diſcountenanced,</hi> becauſe they were the <hi>King's
+Witneſſes?</hi> And whether <hi>Naboth</hi>'s Judges, if they had diſcountenanced them, had
+not prevented the <hi>Shedding of innocent blood?</hi> And whether they who cry out againſt the
+Judges and Jury for their having acquitted Sir <hi>George Wake<g ref="char:EOLhyphen"/>man</hi> and ſome others, do not
+more <hi>impudently aſperſe the Juſtice of the Land,</hi> than thoſe did, who <hi>Pleading
+for their Lives,</hi> could not defend their Innocence, without alledging that they were wrongfully
+accuſed?</p>
+            <p n="7">VII. <hi>Whether it is not the indiſpenſable Duty of all Proteſtant Magiſtrates
+whatſoe<g ref="char:EOLhyphen"/>ver, with the People of</hi> England <hi>to conſider with themſelves, and conſult
+the Lear<g ref="char:EOLhyphen"/>ned in the Laws, what Power God and the King, and the Laws have put into their hands for
+the prevention of</hi> Popery <hi>and Slavery, both from themſelves and poſterity, leſt their
+Ignorance and Security bring Deſtruction without Recovery?</hi>
+            </p>
+            <p>ADD. Whether <hi>it is not the indiſpenſable Duty of all</hi> good Subjects to apply
+themſelves to the King for the Redreſs of all Grievances whatſoever, as alſo to know,
+<hi>that they have no power either from God or Man</hi> to change or act any thing in the
+Government without his Majeſties Conſent, and that no new Law can be made without the
+Concurrence of the Royall Power? And whe<g ref="char:EOLhyphen"/>thes in this Querie our Author doth not ſlily incite the
+People to Rebellion, by inſinuating <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>to them
+the Doctrine of <hi>Iuspopuli,</hi> or that they have a far<g ref="char:EOLhyphen"/>ther power of <hi>ſecuring
+themſelves</hi> (that is, indeed, of <hi>undoing themſelves</hi>) than they yet know of?</p>
+            <p n="8">
+               <pb n="4" facs="tcp:57404:3"/>VIII. <hi>Whether it will not be for the perpetual Honour of the Magiſtrates
+of</hi> Lon<g ref="char:EOLhyphen"/>don, <hi>to be firſt in this work, foraſmuch as that famous City hath woful
+experience in their many dreadful Burnings, that the tender mercy of the Papiſts towards them is
+Popiſh Cruelty?</hi>
+            </p>
+            <p>ADD. Whether it will not be a <hi>moſt dreadful thing</hi> for the City of <hi>London</hi> to
+hearken to this <hi>Preacher of Sedition, foraſmuch</hi> as not only by the <hi>Diſmal
+Fire,</hi> he ſpeaks of, but alſo by a moſt violent Plague (which he hath forgot to charge on
+the <hi>Papiſts</hi>) and ſeveral other ways, it hath already felt the moſt ſevere
+Judgments of Almighty God, for having been prevailed on, to bear ſo principal a part in the late
+Rebellion, and <hi>to be amongſt the firſt in that</hi> Curſed <hi>Work;</hi> and hath long
+ſince learnt by <hi>woful Experience</hi> that the fair pre<g ref="char:EOLhyphen"/>tences of <hi>making the King
+Glorious,</hi> are ſure to end in <hi>Cutting off his Head?</hi>
+            </p>
+            <p n="9">IX. <hi>Whether that Coſtly Monument erected near</hi> London-bridge, <hi>is not to be a
+perpetual Land-mark for all Engliſh and Forrein Proteſtants, forever to remember</hi> 1666.
+September 2. <hi>when thoſe curſed I lotters began to ſet Fire at a Baker's Houſe in</hi>
+Pudding-Lane, <hi>which by their Emiſſaries was conducted on, for four days together, till it
+laid in Aſhes thirteen thouſand two hundred Houſes, laying waſte three hundred ſeventy
+three Acres of Land within the Walls, and above ſixty three Acres without the Walls, with eighty
+nine Pariſh-Churches?</hi>
+            </p>
+            <p>ADD. Whether <hi>that Coſtly Monument</hi> which was likely to have been <hi>Ere<g ref="char:EOLhyphen"/>cted</hi> for
+his Late Majeſty had not been <hi>a perpetual Land-mark for all Engliſh and Forrein</hi> Kings
+<hi>to remember</hi> 1648. <hi>January</hi> 30. <hi>when thoſe Curſed</hi> Rebels cut off their
+Sovereigns Head, and <hi>for twelve years together</hi> kept out the Lawful Heir, <hi>till all the
+Acres</hi> of the Three Kingdoms Groaned under their Op<g ref="char:EOLhyphen"/>preſſion? And whether the Heads and
+Quarters (of Traytors <hi>juſtly</hi>-Con<g ref="char:EOLhyphen"/>demned and <hi>evidently</hi> Guilty) <hi>on
+London-Bridge</hi> are not a better Teſtimony that thoſe Rebels <hi>Murthered their King,</hi>
+than the Monument <hi>near it</hi> is, that the Papiſts <hi>Fired London,</hi> which was never
+laid (at leaſt) on the Engliſh Catho<g ref="char:EOLhyphen"/>licks, till an <hi>Hunger-ſtarved</hi> Villain did it to
+get his <hi>Bread?</hi>
+            </p>
+            <p n="10">X. <hi>Whether the</hi> Spaniſh Invaſions, 1588. <hi>and the
+Gunpowder-Treaſon,</hi> 1605. <hi>together with the cruel Murders and Maſſacres on ſome
+hundred thouſand</hi> Proteſtants, <hi>Men, Women and Children, in the</hi> Netherlands,
+Ireland, Piedmont, <hi>and the</hi> Albi<g ref="char:EOLhyphen"/>genſes, <hi>be not a ſufficient Warning to</hi>
+England, <hi>That they beſeech their God, and their King, and their Parliament, That no</hi>
+Papiſt, <hi>of ſuch deſtructive Principles, may dwell in our Land?</hi>
+            </p>
+            <p>ADD. Whether the Rebellion begun in <hi>England</hi> 1641. the Murther of King <hi>Charles</hi>
+I. 1648. <hi>together with many Rebellions, Murthers, and Maſſacres</hi> tranſacted by
+<hi>Pretended Reformers</hi> as well in the <hi>Netherlands</hi> and <hi>France,</hi> as all over
+<hi>Germany</hi> and elſewhere, <hi>be not a ſufficient warning</hi> to all Governments
+whatſoever, to Repreſs ſuch <hi>Reforming Pretences;</hi> And if this be not done in
+<hi>England,</hi> whether the King hath not ſufficient Reaſon to <hi>beſeech God,</hi> that
+<pb n="5" facs="tcp:57404:3"/>at leaſt a <hi>Pendrel,</hi> a <hi>Gifford</hi> or an <hi>Huddleſton</hi> may
+be left of the <hi>Papiſts,</hi> for fear there ſhould be occaſion again for <hi>ſuch
+Loyalty</hi> as theirs?</p>
+            <p n="11">XI. <hi>Whether ſuch a Day as this, doth not loudly Call for Repentance, that
+Pro<g ref="char:EOLhyphen"/>teſtants have been perſecuting each other, and for <g ref="char:V">Ʋ</g>nity in Affection, among all</hi>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ro<g ref="char:EOLhyphen"/>teſtant <hi>Subjects, whether Conforming or
+Diſſenting in ſome leſſer Points; And that as Brethren they unite in ſuch a Combination
+or Conjuction, as was in Queen</hi> Elizabeth's <hi>time with good Succeſs, to defend the Crown,
+Religion and Kingdom, againſt the com<g ref="char:EOLhyphen"/>mon Enemy of Mankind; Foraſmuch as the Epiſcopal
+Proteſtants, as well as others, muſt lye down in the ſame Bed of Flames together, if the Pope
+and his Party get the up<g ref="char:EOLhyphen"/>per hand?</hi>
+            </p>
+            <p>ADD. Who they were that Made the <hi>Bed of Flames</hi> (if it muſt be ſo called) whereupon
+the late Arch-Biſhop of St. <hi>Andrews lay down,</hi> and that larger one, which not long ago
+held all the Biſhops of the three Nations, with ſuch as ad<g ref="char:EOLhyphen"/>hered unto them? And whether thoſe
+who called the ſaid Arch-Biſhop, <hi>Judas,</hi> and a <hi>Perſecutor of the Children of
+God,</hi> always looked on <hi>Lawn-ſleeves as Rags of Antichriſt,</hi> affirmed the
+<hi>Croſs in Baptiſm,</hi> and <hi>Bowing to the Altar,</hi> to be meer <hi>Idolatry,</hi> and
+the <hi>like,</hi> will content themſelves with ſaying that <hi>Epiſcopal Proteſtants
+diſſent from them in ſome leffer points,</hi> when they <hi>get the upper hand?</hi> And
+whether they did ſo formerly, when they had it? And whether it be not more probable that ſuch
+vaſt numbers of them ſhould have it again, than an <hi>Handfull</hi> of Papiſts, eſpecially
+if they can but inviegle the Epiſcopiſts themſelves to help them thereunto? Who it was, that
+had the title of the <hi>Common Enemy</hi> during the late Uſurpation?</p>
+            <p n="12">XII. <hi>Whether it be not the Duty of all Good</hi> Proteſtants, <hi>to pray for the
+Long Life of the King, That He may live ſo, as becometh the ſame Religion; it being an Enemy to
+all Vice, and the Maintenance of all Virtue; Foraſmuch alſo, that the Remo<g ref="char:EOLhyphen"/>ving of the
+King,</hi> (<hi>as the</hi> Papiſts <hi>call it</hi>) <hi>is the moſt likely way to let in</hi>
+Popery, <hi>and a Thouſand other Miſeries upon this poor Kingdom?</hi>
+            </p>
+            <p>ADD. Whether it be the Duty of any good Man to preach (as the <hi>Puri<g ref="char:EOLhyphen"/>tan Doctors</hi> do) that
+<hi>Magiſtrates loſe their Authority when they commit a Mortal Sin?</hi> Whether by this Querie
+our Loyal Author doth not endeavour to throw ſome dirt on the King, and whether it be not to be
+ſuſpected that <hi>he prays backward</hi> for him? Whether His Majeſty be not in greater
+danger of <hi>being made a Glorious King</hi> (<hi>as the</hi> Presbyterians <hi>call it</hi>) as
+<hi>the moſt likely way of letting in</hi> Anarchy, Confuſion and <hi>a thouſand other
+Miſeries upon this poor Nation,</hi> than of <hi>being removed</hi> by thoſe who are only hated
+for being truly Loyal?</p>
+            <p n="13">XIII. <hi>Whether it be not high time for all the</hi> Proteſtants <hi>in</hi> England,
+<hi>to Re<g ref="char:EOLhyphen"/>ſolve, as one Man, That they will ſtand by and maintain the Power and Priviledges of
+Parliament: Together with the Power and juſt Rights of the King, according to the Laws of the
+Kingdom, ſo as the one may not Intrench upon the other?</hi>
+            </p>
+            <p>ADD. Whether <hi>it be not high time</hi> (on this intimation of our Author) for all
+<pb n="4" facs="tcp:57404:4"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:57404:4"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:57404:5"/>
+               <hi>good</hi> men to take care, leſt the <hi>ill</hi> ſhould once more begin
+to beat their Drums, FOR KING AND PARLIAMENT?</p>
+            <p n="14">XIV. <hi>Whother it be not the Duty of all Good Proteſtants, to be heartily Thankfull
+to God, for the timely Diſcoveries of this Helliſh Plot; and alſo to pray, that God would
+preſerve the King and Kingdoms witneſſes, that they may finiſh their Teſtimony, to the
+well becoming ſo ſignal a Work, and be of an humble Behaviour before Almighty God, the King and
+Kingdom; That they may obtain Mercy at the Hand of God, and not be Caſt-aways to themſelves,
+while they are of ſuch publick uſe and Benefit to theſe Bleed<g ref="char:EOLhyphen"/>ing Nations?</hi>
+            </p>
+            <p>
+               <hi>Add.</hi> Whether it be not to mock God, to inſtitute Days of <hi>Faſting</hi> or
+<hi>Thanksgiving</hi> on the account of a PLOT, which we have yet no reaſon to believe? And
+whether or no our Author doth not tacitly hint as much, when he owns a neceſſity of
+<hi>Praying,</hi> that the <hi>Witneſſes</hi> thereof may <hi>behave them<g ref="char:EOLhyphen"/>ſelves better</hi>
+than they do: For, what Truth is to be expected from Men, who (by their own Confeſſion) were
+full of the worſt Crimes before their pretended Converſions, and ſtill continue (in the eye
+of the World of moſt inſolent and ſcandalous Behaviours? And conſequently whether our
+ſaid Author had not good cauſe to wiſh, that they had a little more of the Preſ<g ref="char:EOLhyphen"/>byterian
+<hi>Twang</hi> (and would be content to <hi>Debauch</hi> it ſecretly) that they might the better
+Cheat the Nation, and carry on <hi>ſo ſignal a Work?</hi> And whether it be not for the credit
+of our Countrey, that he is forced to deſire that the ſaid Witneſſes may live <hi>to
+finiſh their Teſtimony,</hi> out of fear that ſhould theſe rare fellows once drop off,
+there would none be found, amongſt our Honeſt Countrymen, Rogues enough to ſupply their
+places, and carry on their abo<g ref="char:EOLhyphen"/>minable Trade? But had they leaſes of their lives till they
+ſhould <hi>finiſh their Teſtimony,</hi> I queſtion not, but <hi>Methuſalem</hi> would
+prove a Youngſter to them, ſince they have got a trick of Accuſing ſuch, as they never knew
+or ſaw be<g ref="char:EOLhyphen"/>fore in their lives, and after this rate, their <hi>Teſtimrny</hi> muſt needs
+laſt as long as the world. Whether the Nation <hi>Bleedeth</hi> any otherwiſe at preſent,
+than by <hi>innocent Blood?</hi>
+            </p>
+            <p n="15">XV. <hi>Whether all the Counties, Cities and Corporations in</hi> England, <hi>are not at
+this time more highly Concerned than ever, to make Choice of ſuch for Parliament Men, as may not
+Sell but Save them, to the Happy Settlement of our preſent Proteſtant King and
+Government?</hi>
+            </p>
+            <p>
+               <hi>Add.</hi> Whether the ſaid <hi>Counties, Cities and Corporations are not at this time more
+highly concerned then ever,</hi> not <hi>to make choice of ſuch for Parliament Men,</hi> as
+either were Members of the <hi>Rump,</hi> or are of the ſame <hi>Breed, Spirit</hi> or
+<hi>Principles?</hi>
+            </p>
+            <p n="16">XVI. <hi>Whether therefore it be not the Duty of the People, to chooſe ſuch as are
+well known to be Men of good Conſcience and Courage, throughly Principled in the Pro<g ref="char:EOLhyphen"/>teſtant
+Religion; and of high Reſolution to maintain it with their Lives and Fortunes?</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:57404:5"/>
+               <hi>Add.</hi> Whether <hi>therefore it be not the Duty of the People to chuſe
+ſuch, as are well known to be Men of good Conſolence and</hi> Loyalty, <hi>thoroughly
+Principle</hi> againſt Faction and Fanaticiſm, <hi>and of high reſolution</hi> not to draw
+their ſwords a<g ref="char:EOLhyphen"/>gainſt their Sovereign, but on the contrary to defend him <hi>with their lives
+and Fortunes?</hi>
+            </p>
+            <p n="17">XVII. <hi>Whether all true</hi> Engliſh <hi>Men ought not ſeriouſly to conſider,
+what they truſt the Parliament with,</hi> viz. <hi>their Eſtates, Liberties, Religion and
+Lives; And ſhould they be undone in any of theſe, when it is too late, they may Lament
+themſelves, That they are undone by making ſuch a Choice as have undone them by Law?</hi>
+            </p>
+            <p>
+               <hi>Add.</hi> Whether <hi>all true Engliſh Men,</hi> who love quiet, <hi>ought not
+ſeriouſly to conſider,</hi> how far <hi>Parliaments</hi> are to be <hi>Truſted</hi> or
+believed; and whether ſome<g ref="char:EOLhyphen"/>times they may not deceive the People, as the long Parliament did, and
+made them <hi>repent</hi> when it was to <hi>too late?</hi> And whether it doth not follow from
+this Querie of our Author, when he ſuppoſeth <hi>that the people may be undone by the Acts of
+Parliament, and lament too late,</hi> that it is not in the Peoples power to take up arms and Right
+themſelves, as he would inſinuate above? And whether thence it doth not likewiſe follow, that
+Parliaments may be naught, their Votes and Declarations prejudicial to the Kingdom, and,
+conſequently, a Diſſolution convenient, which anſwereth his <hi>firſt</hi> and
+<hi>third</hi> Queries? And whether our Author urging the People to ſo much Care in their
+Elections, <hi>leſt</hi> (as he ſays) <hi>they be undone by Law,</hi> hath any great re<g ref="char:EOLhyphen"/>ſpect
+for his Majeſty, in whoſe Prudence and Godneſs he ought to have had ſome confidence, that
+(let the Parliaments endeavour what they pleaſed) no ſuch <hi>Law</hi> ſhould paſs as was
+deſtructive to his Subjects?</p>
+            <p n="18">XVIII. <hi>Whether it ſhould not be the great Care of all Counties, Cities and
+Bo<g ref="char:EOLhyphen"/>roughs, to conſider who have been formerly Pentioners or Favourers of Popery; And whether they
+are fit again to be Intruſted with their Religion, Lives and Liberties?</hi>
+            </p>
+            <p>
+               <hi>Add.</hi> Whether <hi>it ſhould not be the great care of all Counties, Cities and
+Bo<g ref="char:EOLhyphen"/>roughs, to conſider, who have formerly</hi> on pretence of preventing <hi>Popery,</hi> incited
+to ſedition and Rebellion; and whether ſuch as under colour of Religion deſtroyed the King,
+ſubverted the Government, and enſlaved their Coun<g ref="char:EOLhyphen"/>trey, or the like men, are fit to be again
+entruſted, and put into any Capacity of doing the ſame? And whether an Honeſt and Loyal
+Proteſtant is not at this time in danger of being called (though not proved unleſs by
+ſale-Oaths) a <hi>Pentioner and Favourer of Popery?</hi>
+            </p>
+            <p n="19">XIX. <hi>Whether you are not bound to conſider thoſe worthy Members of the late
+Parliament, who have already Faithfully ſerved you, and the whole Kingdom, with their Perſons
+and Eſtates; And now ſhew your Eſteems of them and Acceptance of their former Services, by an
+<g ref="char:V">Ʋ</g>nanimous Chooſing of them again, Foraſmuch as they are beſt acquainted with the Deplorable
+ſtate of theſe Kingdoms?</hi>
+            </p>
+            <p>
+               <hi>Add.</hi> Whether it be not wholly to fruſtrate the end of the Diſſolution,
+<pb n="6" facs="tcp:57404:6"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:57404:6"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:57404:7"/>and moſt highly to affront and Cenſure his Majeſties Wiſedom in that Act,
+to <hi>Chuſe the ſame Parliament again?</hi> And whether this Scribler (together with Doctor
+<hi>Oates</hi> whom he imitates and defends) ought to be permitted in this manner (though he had
+more reaſon, than he hath) to upbraid the King and his Council, and (that I may uſe his own way
+of ſpeaking) <hi>impudently aſperce the</hi> Government <hi>of the Land?</hi> And whether our
+ſaid Scribler beginning with fears <hi>leſt the Papiſts ſhould Kill the King,</hi> does not
+in moſt of his Queries incul<g ref="char:EOLhyphen"/>cate, that <hi>the People ought to be more affraid of the</hi> King
+himſelf, <hi>than of any thing elſe?</hi>
+            </p>
+            <p n="20">XX. <hi>Whether it be not your indiſpenſable Duties, to endeavour to make their
+Elections eaſie, by bearing your own Charges, and the Charges of the meaner ſort of
+Freeholders, leſt ſuch as would Heartily ſerve you, be in time Diſcouraged, to under<g ref="char:EOLhyphen"/>take
+that good Work of preſerving you and your Poſterities, in your lawfull and un<g ref="char:EOLhyphen"/>doubted
+Rights?</hi>
+            </p>
+            <p>
+               <hi>Add.</hi> Whether this <hi>Querie</hi> be not a kinde of gathering Contributions, and
+Inviting in (the ſecond time) of ſilver <hi>Spoons, Thimbles, Bodkins,</hi> and
+<hi>Whiſtles,</hi> for the Reviving and Carrying on the GOOD OLD CAUSE?</p>
+            <p n="21">XXI. <hi>Whether may we not, without breach of Charity, conclude, That if known
+Pentioners do now Buy Seats in Parliament, they do intend again to make Merchan<g ref="char:EOLhyphen"/>dize of all that is
+dear to us? And whether will not all Freeholders and Electors, be deſervedly accounted Infamous,
+and the Betrayers of their Country, who ſhall Reſol<g ref="char:EOLhyphen"/>vedly, after ſuch Diſcoveries of our
+Dangers, and ſuch Opportunities of being, by Gods Bleſſing, delivered from them by
+honeſt</hi> Engliſh <hi>Parliaments, Sell themſelves, their Wives, Children and Eſtates,
+for one of</hi> Eſau's <hi>Morſels?</hi>
+            </p>
+            <p>
+               <hi>Add.</hi> Whether <hi>we may not, without breach of Charity, conclude,</hi> that it is as
+eaſy to call an Honeſt and diſintereſſed Man a <hi>known Pentioner,</hi> as it was
+here<g ref="char:EOLhyphen"/>tofore to <hi>Call</hi> Loyal Subjects <hi>Delinquents</hi> and <hi>Malignants,</hi> and is
+now to <hi>Swear</hi> them <hi>Traytors?</hi> And whether <hi>Free-holders</hi> or
+<hi>Electors</hi> will be <hi>Free-holders</hi> or <hi>Electors</hi> long, if they <hi>chuſe</hi>
+ſuch as will ſuffer them to <hi>chuſe</hi> no more, but eſtabliſh themſelves in an
+abſolute Dominion, as well over their <hi>Elections</hi> as <hi>Free-holders?</hi> And whether it
+will not be their own faults, if they once more hearken to thoſe Tales, which (they know)
+involved them in all their paſt Miſeries?</p>
+            <p n="22">XXII. <hi>Whether it be not the hearty Prayer of all good Proteſtants, That the King
+would be pleaſed to hearken unto, and rely upon the Advice of His Parliament; and a<g ref="char:EOLhyphen"/>void all
+ſuch, who ſeek to make themſelves Rich, by making the King and Kingdom Poor: Foraſmuch as
+the Parliament are the Great Council of the King and Kingdom; and by them the King is ſupplied,
+out of the Purſe of the Kingdom; and they COMMAND and Encourage the People to venture the
+ſhedding of their deareſt Blood, in any Juſt and Righteous Cauſe, to maintain the King and
+Kingdoms Power and Greatneſs?</hi>
+            </p>
+            <p>
+               <hi>Add.</hi> Whether <hi>it were not the hearty</hi> wiſh <hi>of all good</hi> Subjects,
+<hi>that the Old
+<pb n="9" facs="tcp:57404:7"/>King</hi> had not ſo much <hi>hearkened unto, and relied upon the Advice of
+the</hi> Old <hi>Par<g ref="char:EOLhyphen"/>liament;</hi> but had <hi>avoided all ſuch as ſought to make themſelves
+rich,</hi> by deſtroying <hi>the King and Kingdom; foraſmuch as an</hi> evil
+<hi>Parliament</hi> (if not Diſſolved) becomes the Bane <hi>of the King and Kingdom; And by
+them the King is</hi> denied ſuch <hi>ſup<g ref="char:EOLhyphen"/>plies</hi> as are neceſſary, <hi>And they</hi>
+COMMAND (which doth not belong to them) <hi>and Encourage the People to</hi> Rebel, <hi>and venture
+the ſhedding of their deareſt Blood</hi> in an <hi>unjuſt, unlawful</hi> and
+<hi>unnatural</hi> war againſt their <hi>Natural</hi> and <hi>Lawful</hi> Sovereign, <hi>to
+maintain their own unjuſt power</hi> and ambitious uſurpa<g ref="char:EOLhyphen"/>tions? Whether our Author do not
+forget, not only the Long-Parlia<g ref="char:EOLhyphen"/>ment, but alſo what he himſelf ſuppoſeth in his 17th
+Querie (viz. <hi>that an ill Parliament may be choſen</hi>) when he would have the King
+<hi>hearken unto, and relie upon the advice of his Parliament,</hi> right or wrong, and without
+conſidering whether it be <hi>good</hi> or <hi>bad?</hi>
+            </p>
+            <p n="23">XXIII. <hi>Whether if you will believe the</hi> Jeſuits <hi>and</hi> Prieſts <hi>at
+St.</hi> Omers, <hi>That there was never any ſuch Man as Sir</hi> Edmund-bury Godfrey; <hi>And if
+you will believe what his Murderers ſaid at their Death, that they did not Murder him, then you
+muſt not believe there was any ſuch Man as Sir</hi> Edmund-bury Godfrey <hi>in</hi>
+England?</p>
+            <p>ADD. Whether any one of common ſenſe can believe, that the Jeſuites of St. <hi>Omers</hi>
+could <hi>ſay</hi> a thing ſo <hi>abſurd, eaſily diſprovable,</hi> and <hi>nothing to the
+purpoſe,</hi> as that <hi>there was never any ſuch man as</hi> Sir Edmund bury Godfrey? And
+whether there be not as little reaſon, why the Papiſts ſhould kill <hi>Sir Edm. Godfrey,</hi>
+who was their Friend, and, if he had been their Enemy, in this conjuncture could do them no harm,
+unleſs by <hi>being Killed</hi> in ſuch an unknown manner as he was? And whether the Oaths and
+ſolemn Prote<g ref="char:EOLhyphen"/>ſtations of three Dying men (whereof one was a Proteſtant) who got no<g ref="char:EOLhyphen"/>thing by
+them, but (if they were falſe) eternal Damnation, be not better proof that the Papiſts did not
+Kill him, than the incoherent and improbable Oaths of <hi>Prance</hi> and <hi>Bedlow,</hi> that
+they did: the one having been frightned into it for the ſaving of his life, and the Other enticed
+by the fair and com<g ref="char:EOLhyphen"/>petent reward of 500. pounds, at a time wherein it was hard to tell, whe<g ref="char:EOLhyphen"/>ther
+his <hi>Want</hi> or <hi>Infamy</hi> were Greater? Whether any well-meaning man, how illiterate or
+ignorant ſoever, may not perceive of what Stuffe, the Stories againſt Papiſts are made, when
+they are reported to affirm at St. <hi>Omers,</hi> that <hi>there never was any ſuch man as
+Sir</hi> Edmund-bury Godfrey; and this (to render it more abſurd, if poſſible) whil'ſt
+either in or near that Place, they were publiſhing Treatiſes, both in <hi>French</hi> and
+<hi>Engliſh,</hi> to let the world ſee, how highly improbable it was, that the ſaid Sir
+<hi>Edmund-bury</hi> ſhould have been Killed in <hi>Somerſet</hi>-Houſe? And after all, if
+you are credu<g ref="char:EOLhyphen"/>lous enough to believe the forgoing <hi>Chymera,</hi> and alſo whatever elſe is
+now ſaid and ſworn againſt the Papiſts, <hi>viz.</hi> that they were wont to ſend their
+<pb n="10" facs="tcp:57404:8"/>treaſonable Letters (up and down the Countrey) in a plain legible Hand by the
+ordinary <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſts; that they entruſted
+ſcandalous and ignominious Raſcals with Deſigns of the higheſt Conſequence, and
+afterward, ſuffered them to Beg and be half-ſtarv'd (affronting and beating them into the
+bargain) when it was in the power of ſuch as they affronted to betray them; that they forbore to
+ſly or ſecure themſelves, when they had notice that their Plot was diſcovered; that they
+have Diſpenſations to <hi>ſwear</hi> any thing, and yet loſe their Eſtates, Liberties and
+Lives for want of <hi>Swearing;</hi> and that they think they do God (who is <hi>Truth</hi> it
+ſelf) good ſervice, when they ſolemnly invoke him with their laſt breath to bear witneſs
+to a <hi>Lye:</hi> If, I ſay, you believe all theſe things, with many more Abſurdities of the
+like nature, and Conſider what you Believe, I ask, whether you will not Conclude that the Judges
+(who are the only Advocates of Priſoners) ought in all Conſcience and Equity to have pleaded
+for the late pretended Criminals, as (moſt un<g ref="char:EOLhyphen"/>doubtedly) <hi>non Compotes mentis?</hi>
+            </p>
+            <p n="24">XXIV. <hi>Laſtly, Whether of</hi> Popiſh <hi>Treaſons and Murders, render the</hi>
+Papiſts <hi>at their Death, at Innocent as the Child unborn, who would not be a Murderer,
+and</hi> Popiſh <hi>Traytor?</hi>
+            </p>
+            <p>
+               <hi>Add.</hi> Whether if <hi>evident</hi> Presbyterian <hi>Treaſons,</hi> and <hi>open
+Rebellions</hi> hereto<g ref="char:EOLhyphen"/>fore found an <hi>Act of Oblivion,</hi> and now lately in <hi>Scotland</hi>
+have met with <hi>In<g ref="char:EOLhyphen"/>dulgence</hi> and <hi>Pardon,</hi> and the <hi>unalterable</hi> Loyalty and
+<hi>palpable</hi> Innocence of worthy Perſons cannot ſave them from Exile, Impriſonment and
+Hanging, it be not ſafer and more profitable to be a <hi>known Vanquiſhed</hi> and
+<hi>Convicted</hi> Traytor than an Honeſt man? And whether the vileſt Felon or Murtherer, who
+lieth in a Gaol, if the ſame Conſcience, which permitted him, for twenty ſhillings, to Rob or
+Kill on the High-way, in danger of his own life, will now give him leave to take a falſe Oath,
+without any hazard at all, for 200. pounds <hi>Sterling,</hi> be not in a better condition, than
+any Innocent man, who will not tell a lye to ſave his life?</p>
+            <p>Laſtly, Whether Perjury and the Shedding <hi>of innocent Blood</hi> do not Cry for Vengeance
+from Almighty God, and whether our Author and his fellow Scriblers are not a part and beginning of
+thoſe Puniſhments which we deſerve, and ſuch Inſects as are wont to Swarm in Corrupted
+air, and uſually <hi>precede</hi> and <hi>foretel</hi> the Approach of Greater Plagues? And
+whether we may not gather from what the Scripture teacheth us of the Way, which God choſe for the
+deſtruction of <hi>Ahab,</hi> (viz. <hi>by permitting</hi> a Lying ſpirit <hi>to enter into all
+his Prophets</hi>) that the too general Belief of ſuch egre<g ref="char:EOLhyphen"/>gious Untruths, as are daily vented,
+is too ſad an Omen of the enſuing Miſeries, and perhaps, the utter Ruine of our poor Nation?
+And whether to prevent this, it be not better to amend our own lives, than to take away thoſe of
+the Innocent, and peradventure, leſſen the number of Juſt men
+<pb n="11" facs="tcp:57404:8"/>to that degree amongſt us, that ſo at length there may not be left enough,
+for whoſe ſakes God might be prevailed with, to Spare us?</p>
+            <q>Juſtitia <hi>elevat Gentem,</hi> Miſeros <hi>autem facit</hi> Populos <hi>Peccatum,</hi>
+               <bibl>Prov. 14.</bibl>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <head>The Author of the Additions</head>
+            <head type="sub">To all Honeſt Readers.</head>
+            <opener>
+               <salute>Dear Countrymen,</salute>
+            </opener>
+            <p>I <hi>Cannot but promiſe myſelf, that ſuch notorious and undenyable Mat<g ref="char:EOLhyphen"/>ters of Fact,
+as</hi> the Rebellious Proceedings of the Long Par<g ref="char:EOLhyphen"/>liament, the Heinous Murther of <hi>King
+Charles</hi> I. The Execrable Butchery of the Arch-Biſhop of St. <hi>Andrews,</hi> and the late
+Sedi<g ref="char:EOLhyphen"/>tions in <hi>Scotland,</hi> and the like, <hi>whereon the foregoing</hi> Additional Queries
+<hi>are grounded, will out-weigh, in all ſober and well-meaning Thoughts, the implorable
+Surmiſes and empty Nothings, which the other Authour entertains you with, and, conſequently,
+Diſabuſe all ſuch, as are not amongſt Thoſe,</hi> who love <hi>Darkneſs</hi> rather
+than <hi>Light,</hi> becauſe their Deeds [and their <hi>Deſigns</hi>] are Evil: <hi>for, I have
+little hopes of being heard by Any, who are playing the</hi> Old Game <hi>over again, and
+perſwade themſelves that it is impoſſible, they ſhould ever have</hi> bet<g ref="char:EOLhyphen"/>ter Cards
+<hi>for it, than are now in their Hands.</hi> —Per quos via <hi>Veritatis</hi>
+blaſphemabitur. Et in Avaritia <hi>fictis Verbis</hi> de vobis <hi>Negotiabuntur,</hi>— 2.
+Pet. 2.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="colophon">
+            <p>Printed in the Year, 1679.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
